@@ -1,0 +1,47 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.mypy_cache
+.coverage
+
+# database & logs
+*.db
+*.db-journal
+*.log
+*.log.*
+/portl/database.*
+
+# venv
+env
+venv
+
+# other
+.DS_Store
+
+# sub-repositories
+/git/*
+!git/automation/.gitkeep
+!git/configurations/.gitkeep
+
+# ansible retry files
+*.retry
+
+# sphinx docs 
+_build
+_templates
+
+# javascript
+package-lock.json
+node_modules/
+
+# google earth file
+*.kmz
+
+# AP Scheduler
+*.sqlite
+
+#Pycharm
+*.idea*
