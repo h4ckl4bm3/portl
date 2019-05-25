@@ -4,7 +4,7 @@ coverage==4.5.3
 flake8==3.7.7
 flake8-print==3.1.0
 mypy==0.701
-pep8-naming
+pep8-naming==0.8.2
 pre-commit
 pytest
 -r requirements.txt
