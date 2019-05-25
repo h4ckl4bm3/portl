@@ -1,4 +1,4 @@
-black
+black==19.3b0
 coveralls
 coverage
 flake8
