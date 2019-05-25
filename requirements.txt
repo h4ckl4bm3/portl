@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.22.0
 pytest==4.5.0
 click==6.7
 apscheduler==3.6.0
